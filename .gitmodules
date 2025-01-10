@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "HiDimDA"]
+	path = HiDimDA
+	url = https://github.com/cran/HiDimDA
+[submodule "MAINT.Data"]
+	path = MAINT.Data
+	url = https://github.com/cran/MAINT.Data
