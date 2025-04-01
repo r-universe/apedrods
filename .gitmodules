@@ -8,3 +8,6 @@
 [submodule "MAINT.Data"]
 	path = MAINT.Data
 	url = https://github.com/cran/MAINT.Data
+[submodule "subselect"]
+	path = subselect
+	url = https://github.com/cran/subselect
